@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 
 ## To clone: 
-npx tiged <YOUR-GH-USERNAME>/my-react-vite-template#main <new-project-name>  
+npx tiged<YOUR-GH-USERNAME>/my-react-vite-template#main <new-project-name>  
 This command will create a clone of the repo' main branch under the name in the directory where it is run.
 
 ## Inside the project directory, you can run:
